@@ -6,7 +6,7 @@ public class Testing_git {
 		
 		
 		System.out.println("Hello World");
-		System.out.println("New Test");
+	
 
 	}
 
